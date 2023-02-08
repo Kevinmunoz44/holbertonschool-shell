@@ -9,3 +9,4 @@ mkdir /tmp/ to create name and push at once to another repository called tmp
 rm is used to delete files inside repositories
 rmdir  is used to remove repositories
 cd - to go back to the previous repository
+ls -al . .. /boot about new list and list ocult and enumber list
