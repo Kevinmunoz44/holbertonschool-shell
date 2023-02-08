@@ -8,3 +8,4 @@ mkdir /tmp/ to create name and push at once to another repository called tmp
 /tmp/betty /tmp/my_first_directory It is used to move a folder from the same repository to move a file from the same repository
 rm is used to delete files inside repositories
 rmdir  is used to remove repositories
+cd - to go back to the previous repository
