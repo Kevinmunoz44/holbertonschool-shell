@@ -1,2 +1,2 @@
 #!/bin/bash
-cp index.html src.html /root/holbertonschool-shell
+cp -p *.html ../
