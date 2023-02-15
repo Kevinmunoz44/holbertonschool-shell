@@ -19,3 +19,8 @@
 19-AZ
 20-hiagO
 21-reverse
+22-users_and_homes
+23-empty_casks
+24-gifs
+25-acrostic
+26-the_biggest_fan
