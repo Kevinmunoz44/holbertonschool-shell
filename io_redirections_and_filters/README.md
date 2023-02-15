@@ -18,3 +18,4 @@
 18-letteronly
 19-AZ
 20-hiagO
+21-reverse
