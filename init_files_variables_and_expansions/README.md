@@ -11,3 +11,6 @@
 10-love_exponent_breath
 11-binary_to_decimal
 12-combinations
+13-print_float
+14-decimal_to_hexadecimal
+15-rot13
